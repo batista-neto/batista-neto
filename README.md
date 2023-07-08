@@ -2,12 +2,9 @@
 
 
 <div>
-  <a href="https://github.com/batista-neto/github-readme-stats">
+  <a href="https://github.com/batista-neto">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=batista-neto&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/batista-neto/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=batista-neto&layout=compact&langs_count=16&theme=tokyonight" />
-</a>
 </div>
 
 <div style="display: inline_block"><br>
