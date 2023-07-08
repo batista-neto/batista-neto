@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/batista-neto">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=batista-neto&show_icons=true&theme=tokyonight" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=batista-neto&layout=compact&langs_count=16&theme=tokyonight" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=batista-neto&show_icons=true&theme=tokyonight" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=batista-neto&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 
 <div style="display: inline_block"><br>
