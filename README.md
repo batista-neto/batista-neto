@@ -1,6 +1,7 @@
 ### Olá, Eu sou João Batista!
 
 -Atualmente trabalho trabalho como Desenvolvedor Web e posso dizer que sou apaixonado por desenvolver novas tecnologias e me especializei em React Native, Node.js, ReactJS para conseguir isso.👋😁
+
 -Se tiver alguma dúvida, meu canais de contato estã logo abaixo! 🔽
 
 <div>
