@@ -1,6 +1,6 @@
 ### Olá, Eu sou João Batista!
 
--Atualmente trabalho como Desenvolvedor Web e posso dizer que sou apaixonado por desenvolver novas tecnologias e me especializei em React Native, Node.js, ReactJS para conseguir isso.👋😁
+Sou João Batista, engenheiro de software com experiência em uma das maiores redes de farmácias da América Latina. Com formação em Ciência e Tecnologia pela UFMA e atualmente cursando Engenharia da Computação. Atuo principalmente com desenvolvimento mobile, utilizando tecnologias como React Native, Node.js e TypeScript. Tenho uma forte mentalidade de melhoria contínua, gosto de aprender, compartilhar conhecimento e colaborar em times ágeis com foco em resultado..👋😁
 
 -Se tiver alguma dúvida, meu canais de contato estã logo abaixo! 🔽
 
